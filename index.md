@@ -1,7 +1,7 @@
 ---
-title: First Page in the blog
+title: Adventures 
 author: hp77
-description: "First page of the blog"
+description: "Things that I learnt and tried"
 ---
 
 
